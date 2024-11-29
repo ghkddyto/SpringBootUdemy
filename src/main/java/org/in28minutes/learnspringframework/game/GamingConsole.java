@@ -1,8 +1,8 @@
 package org.in28minutes.learnspringframework.game;
 
 public interface GamingConsole {
-    public void up();
-    public void down();
-    public void left();
-    public void right();
+    void up();
+    void down();
+    void left();
+    void right();
 }

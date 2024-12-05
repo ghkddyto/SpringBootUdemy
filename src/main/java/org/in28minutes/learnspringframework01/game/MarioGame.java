@@ -1,4 +1,4 @@
-package org.in28minutes.learnspringframework.game;
+package org.in28minutes.learnspringframework01.game;
 
 public class MarioGame implements GamingConsole{
 

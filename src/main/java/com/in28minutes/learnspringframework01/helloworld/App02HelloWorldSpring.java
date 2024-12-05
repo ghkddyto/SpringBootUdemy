@@ -1,4 +1,4 @@
-package org.in28minutes.learnspringframework01.helloworld;
+package com.in28minutes.learnspringframework01.helloworld;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

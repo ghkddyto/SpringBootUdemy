@@ -1,4 +1,4 @@
-package org.in28minutes.learnspringframework01.game;
+package com.in28minutes.learnspringframework01.game;
 
 public class SuperContraGame implements GamingConsole {
     public void up(){
